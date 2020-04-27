@@ -1,0 +1,16 @@
+1. A description of the problem and a discussion of the background. (15 marks)
+
+I want try to address a problem where I want to discover the neighborhoods who has plenty of hospitals or medic services.
+
+I live with my parents and I want to move to Toronto and I want to compare my two locations NY and Toronto in terms of medical facilities near the place I am going to live.
+It is very important that I should choose a location which have these conditions met, otherwise leaving my old age parent at home alone, will not be peaceful for me and I will be constantly remain worried about their well-being.
+
+
+2. A description of the data and how it will be used to solve the problem. (15 marks)
+
+I will pick up two residential locations in NY and Toronto, based upon my budget and will compare them for the surrounding facilities like Medical stores, Hospitals and other community services around and then rate the two neighborhoods accordingly.
+
+I will need to pull up data showing available spaces for rent and then I will query surrounding amenities.
+More the number of Medic amanities, more rating I will assign to those neighborhoods.
+
+Solving this problem will be helpful for many, as different people have different medical/vet requirements.
